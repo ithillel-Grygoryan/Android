@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PlaysForFriends</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_game"> WHO\’S MY MATCH?</string>
+    <string name="second_game">HOWS YOURS? </string>
+    <string name="third_game">TWO TRUTHS AND A LIE</string>
+    <string name="fourth_game">TAG N\' BAG</string>
+    <string name="fifth_game">CELEBRITY HUNT</string>
+    <string name="first_game_settings">A fun adult party game to play when guests arrive at a party. Write or print the names of famous celebrity couples on sticky labels – one name per label and mix the labels up so that they are no longer couples. Stick a label with a name on each guest’s back as guests arrive. Guests must ask other guests yes or no questions to find out what the label on their own back says (who they are) and find their match among the crowd. Tell your guests: ONLY yes or no questions and answers! You may only ask a person one question, then move on to the next guest. This game is great if you want a crowd to mingle, once everyone knows who they are and have found their match, they must impersonate that couple for a fun photo!
+    </string>
+    <string name="second_game_settings">Send one player out of the room. The group decides on something that everyone has. It can be a body part (fingers, toenails, lips), a physical possession (house, car, computer) or something abstract (hunger pains, sense of humor). Once the group found something that they all have in common, the person is asked to return and start the game by asking every other player \"How\'s yours\"? The other players reply with one and seldom with two words, describing the thing they have, using descriptive adjectives that are clever, but not too revealing. You start with harder, more ambiguous adjectives and the players towards the end use their judgment whether they should make their descriptions more direct or easier to identify. After the player asked everyone \"how\'s yours\", he/she must guess what \"the thing\" is! This game provides loads of laughs!
+    </string>
+    <string name="third_game_settings"> Each person writes two truths and a lie about themselves on a piece of paper, fold it and put it in a bowl. The host then randomly pulls them out one at a time and reads them to the group. Now the group must guess BOTH the person and the lie. Try to identify the person first.
+    </string>
+    <string name="fourth_game_settings">This is a great game that can be played throughout your party. All you need is a clothes pin, a bag, slips of paper, and an imagination.\nOne guest is given a clothes pin at the beginning of the party.  Their goal is to discreetly clip it on to someone else\'s person. Afterward they walk away and call out \" Tag\'m and Bag\'m\".  Everyone then starts a countdown from 5 as they search frantically to see if they were the one tagged.  If the tagged person doesn\'t pull off the clothes pin before the countdown is finished then they must reach into the bag of fate. The bag of fate contains fun penalities, challenges, or dares that the the person must complete. It is then their turn to be the tagger. If the person does find the pin it time the the original tagger must draw from the bag of fate, and they remail the tagger.  Taggers can pass off the tagging duty to another player so that everyone doesn\'t know who the tagger is, but they are still the one\'s who have to take the penalty if the person find their tag. 
+    </string>
+    <string name="fifth_game_settings">A short fun after dinner adult party game! The first guest starts with a celebrity\'s name or name and surname. The group says: \"HUNT!\" The next guest must now say a celebrity\'s name that starts with the last letter of the previous celebrity\'s name. For example: 1st celebrity = Danny DeVito, (The group says: \"HUNT!\") the next celebrity\'s name must now start with an \"O\" (last letter of DeVito) – 2nd celebrity = Oprah, (The group says: \"HUNT!\") the next celebrity\'s name must start with an \"H\" (last letter of Oprah) – 3r celebrity\'s name can be Hugh Grant, (The group says: \"HUNT!\") next celebrity with a \"T\" (last letter of Grant) – get it? Punishment or drinks for those that: Pause, Repeat a Name, Have no answer, Miss a turn or Speak out of turn!
+    </string>
+
+</resources>
+

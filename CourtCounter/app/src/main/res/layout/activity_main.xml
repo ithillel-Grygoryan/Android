@@ -1,0 +1,136 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.courtcounter.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation = "horizontal"
+>
+<LinearLayout
+    android:layout_width="0dp"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.courtcounter.MainActivity"
+    android:orientation = "vertical"
+    android:layout_weight = "1">
+    <TextView
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:text = "Team A"
+        android:gravity = "center_horizontal"
+        android:padding = "4dp"
+        android:textSize = "14sp"
+        android:textColor = "#616161"
+        android:fontFamily = "sans-serif-medium"
+        />
+
+    <TextView
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:text = "0"
+        android:gravity = "center_horizontal"
+        android:padding = "4dp"
+        android:id = "@+id/team_a_score"
+        android:textSize = "56sp"
+        android:textColor = "#000000"
+        android:fontFamily = "sans-serif-light"
+        />
+    <Button
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:text = "+3 points"
+        android:layout_margin = "8dp"
+        android:onClick = "plus3TeamA"
+        />
+
+    <Button
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:text = "+2 points"
+        android:layout_margin = "8dp"
+        android:onClick = "plus2TeamA"
+        />
+
+    <Button
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:text = "+1 points"
+        android:layout_margin = "8dp"
+        android:onClick = "plus1TeamA"
+        />
+</LinearLayout>
+
+        <View
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+            android:layout_marginTop="16dp"
+            android:background="@android:color/darker_gray" />
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:orientation = "vertical"
+        android:layout_weight = "1">
+        <TextView
+            android:layout_width = "match_parent"
+            android:layout_height = "wrap_content"
+            android:text = "Team B"
+            android:gravity = "center_horizontal"
+            android:padding = "4dp"
+            android:textSize = "14sp"
+            android:textColor = "#616161"
+            android:fontFamily = "sans-serif-medium"
+            />
+
+        <TextView
+            android:layout_width = "match_parent"
+            android:layout_height = "wrap_content"
+            android:text = "0"
+            android:gravity = "center_horizontal"
+            android:padding = "4dp"
+            android:id = "@+id/team_b_score"
+            android:textSize = "56sp"
+            android:textColor = "#000000"
+            android:fontFamily = "sans-serif-light"
+            />
+        <Button
+            android:layout_width = "match_parent"
+            android:layout_height = "wrap_content"
+            android:text = "+3 points"
+            android:layout_margin = "8dp"
+            android:onClick = "plus3TeamB"
+            />
+
+        <Button
+            android:layout_width = "match_parent"
+            android:layout_height = "wrap_content"
+            android:text = "+2 points"
+            android:layout_margin = "8dp"
+            android:onClick = "plus2TeamB"
+            />
+
+        <Button
+            android:layout_width = "match_parent"
+            android:layout_height = "wrap_content"
+            android:text = "+1 points"
+            android:layout_margin = "8dp"
+            android:onClick = "plus1TeamB"
+            />
+    </LinearLayout>
+</LinearLayout>
+
+    <Button
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:text = "RESET"
+        android:layout_margin = "32dp"
+        android:onClick = "reset"
+        android:gravity = "center"
+        android:layout_weight = "0"
+        android:layout_alignParentBottom = "true"
+        android:layout_centerHorizontal = "true"
+        />
+
+
+</RelativeLayout>
