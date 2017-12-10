@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/becha/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/becha/Android-Projects/Android/NotificationChannels/Application/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_19df576de40d01a6aa34509691c96542fa37f3d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/becha/.android/build-cache/b80b2c4ebda36e261f54f451e2f56961a24f30d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/becha/Android-Projects/Android/NotificationChannels/Application/build/intermediates/pre-dexed/debug/classes_7abe7c336b25cce660c6a0b66e0f2b9eedcf1b0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/becha/.android/build-cache/fda3cf0fe0a17c119f368dacb74bcf44ec7319c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/becha/Android-Projects/Android/NotificationChannels/Application/build/intermediates/pre-dexed/debug/classes_13acf3a939ba322b9cc40262414a798deb23dbd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/becha/.android/build-cache/fb089d4468b79bef124cc0304f1a7906ddf8f0db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/becha/Android-Projects/Android/NotificationChannels/Application/build/intermediates/pre-dexed/debug/classes_ff11d2ffafce405d5efdbbd6d127d2d3370e0724.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/becha/.android/build-cache/d43669b914ced0c34a1739ebade35474267ef697/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/becha/Android-Projects/Android/NotificationChannels/Application/build/intermediates/pre-dexed/debug/classes_b4ccf8a4aca018b2ac227215f1d2e4318d0b7d78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/becha/.android/build-cache/b3d3aaf81cd8bc4de2426a878bcc148befe56fa4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/home/becha/Android-Projects/Android/NotificationChannels/Application/build/intermediates/pre-dexed/debug/classes_0ebe738a23164e4d740cf819377e4d3c1cacdc2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/becha/.android/build-cache/72a837516fc40e4dae716aa9e5dff5f6e1d80aee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/becha/Android-Projects/Android/NotificationChannels/Application/build/intermediates/pre-dexed/debug/classes_7895a3c8fa8adf626d1223ffe4d1452b6540a6bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/becha/.android/build-cache/f83708bb114b12c1ce1a302f79cddaca1b96a0c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/becha/Android-Projects/Android/NotificationChannels/Application/build/intermediates/pre-dexed/debug/classes_3a45fdf44a67b9188ae6967e41f9b9adc86b88ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/becha/.android/build-cache/ed6038549d7a63885049f36aa7d4ffc666bd64e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/becha/Android-Projects/Android/NotificationChannels/Application/build/intermediates/pre-dexed/debug/classes_9f752bd21b860f70757880834fea1ac6aa7e9ff4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/becha/.android/build-cache/114dbf32303426a4a20b6591c9682e9318eab275/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/becha/Android-Projects/Android/NotificationChannels/Application/build/intermediates/pre-dexed/debug/classes_f623de4cbf192095d4b5ff2d00061df3740c6a78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/becha/.android/build-cache/632f781a395d17004a581b8100f872cb77fdf7e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/becha/Android-Projects/Android/NotificationChannels/Application/build/intermediates/pre-dexed/debug/classes_bcec4119003be436dfba5e457f2cdb6fe3b82cce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/becha/.android/build-cache/1e7a39080984ec8248b69f54ad40ae41680ce22f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/becha/Android-Projects/Android/NotificationChannels/Application/build/intermediates/pre-dexed/debug/classes_83c0a62aed53ea94c474186f0619d1c284bc109a.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/becha/Android-Projects/Android/NotificationChannels/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/becha/.android/build-cache/72a837516fc40e4dae716aa9e5dff5f6e1d80aee/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/becha/Android-Projects/Android/NotificationChannels/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/becha/.android/build-cache/72a837516fc40e4dae716aa9e5dff5f6e1d80aee/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Localization</string>
+    <string name="buhome">Home</string>
+    <string name="msg">Welcome</string>
+</resources>

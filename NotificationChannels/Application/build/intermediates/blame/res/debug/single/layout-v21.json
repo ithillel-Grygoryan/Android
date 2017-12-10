@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/becha/Android-Projects/Android/NotificationChannels/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/becha/.android/build-cache/72a837516fc40e4dae716aa9e5dff5f6e1d80aee/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/becha/Android-Projects/Android/NotificationChannels/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/becha/.android/build-cache/72a837516fc40e4dae716aa9e5dff5f6e1d80aee/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/becha/Android-Projects/Android/NotificationChannels/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/becha/.android/build-cache/72a837516fc40e4dae716aa9e5dff5f6e1d80aee/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/becha/Android-Projects/Android/NotificationChannels/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/becha/.android/build-cache/72a837516fc40e4dae716aa9e5dff5f6e1d80aee/output/res/layout-v21/notification_action.xml"
+    }
+]

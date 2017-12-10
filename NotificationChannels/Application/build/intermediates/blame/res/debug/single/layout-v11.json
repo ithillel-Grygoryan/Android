@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/becha/Android-Projects/Android/NotificationChannels/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/becha/.android/build-cache/72a837516fc40e4dae716aa9e5dff5f6e1d80aee/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/becha/Android-Projects/Android/NotificationChannels/Application/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/becha/.android/build-cache/72a837516fc40e4dae716aa9e5dff5f6e1d80aee/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/becha/Android-Projects/Android/NotificationChannels/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/becha/.android/build-cache/72a837516fc40e4dae716aa9e5dff5f6e1d80aee/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/becha/Android-Projects/Android/NotificationChannels/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/becha/.android/build-cache/72a837516fc40e4dae716aa9e5dff5f6e1d80aee/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/becha/Android-Projects/Android/NotificationChannels/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/becha/.android/build-cache/72a837516fc40e4dae716aa9e5dff5f6e1d80aee/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/becha/Android-Projects/Android/NotificationChannels/Application/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/becha/.android/build-cache/72a837516fc40e4dae716aa9e5dff5f6e1d80aee/output/res/layout-v11/notification_media_action.xml"
+    }
+]

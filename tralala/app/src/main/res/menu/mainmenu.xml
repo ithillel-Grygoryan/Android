@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:yourapp="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/searchbar"
+        android:title="Search"
+        yourapp:actionViewClass="android.widget.SearchView"
+        yourapp:showAsAction="always"
+        />
+
+    <item android:id="@+id/Home1"
+          android:icon = "@drawable/olga"
+          android:title="Home"
+          yourapp:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/add"
+          android:icon = "@drawable/olga"
+          android:title="add"
+          yourapp:showAsAction="ifRoom"/>
+    <item android:id="@+id/Settings"
+          android:icon = "@drawable/olga"
+          android:title="Settings"
+          yourapp:showAsAction="ifRoom"/>
+</menu>

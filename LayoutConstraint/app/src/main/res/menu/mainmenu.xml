@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:compat="http://schemas.android.com/tools">
+
+
+<item android:id="@+id/Home1"
+          android:icon = "@drawable/olga"
+          android:title="Home"
+          android:showAsAction-="ifRoom"/>
+    <item android:id="@+id/add"
+          android:icon = "@drawable/olga"
+          android:title="add"
+          android:showAsAction-="ifRoom"/>
+    <item android:id="@+id/Settings"
+          android:icon = "@drawable/olga"
+          android:title="Settings"
+          android:showAsAction-="ifRoom"/>
+</menu>
